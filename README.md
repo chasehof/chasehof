@@ -2,5 +2,5 @@
 
 Systems-focused software engineer specializing in C++ and networked systems.
 
-🌐 Portfolio / Resume: https://chasehoffman.github.io  
-🔧 Interests: concurrency, async I/O, performance, distributed systems
+ Resume: https://chasehoffman.github.io  
+ Interests: concurrency, async I/O, performance, distributed systems
